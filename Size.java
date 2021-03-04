@@ -1,8 +1,8 @@
 /**
- * Enumeration class Size - write a description of the enum class here
  * 
- * @author (your name here)
- * @version (version number or date here)
+ * 
+ * @author (Rafael Silva) 
+ * @version (1.0)
  */
 public enum Size
 {
@@ -44,4 +44,6 @@ public enum Size
     public char getCode() {
         return code;
     }
+    
+    
 }
